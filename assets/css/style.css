@@ -85,7 +85,7 @@ h1,h2,h3,h4{
 .header__logo{
     font-size: 2rem;
 }
-/*nav - pogas "About" un "Downland"*/
+/*nav - pogas "About us" un "Contact"*/
 .nav{
     text-transform: uppercase;
     margin: 5px;
